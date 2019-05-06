@@ -1,0 +1,21 @@
+.wrapper {
+  width: 400px;
+  max-width: 90%;
+  margin: auto;
+}
+
+img {
+  /*transform: rotate(90deg);*/
+  width: 250px;
+  height: 200px;
+}
+
+.annoyed {
+  color: rgb(250, 240, 0);
+  background-color: pink;
+}
+
+.emergency {
+  color: rgb(255, 0, 0);
+  background-color: black;
+}
